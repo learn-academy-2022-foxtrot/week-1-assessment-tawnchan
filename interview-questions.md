@@ -61,7 +61,7 @@ Pair programming is a software development technique that splits the workload of
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions: Higher order functions are functions that operate on other functions, either by taking them as arguments or by returning them. 
+1. Higher Order Functions: Higher order functions are functions that operate on other functions, either by ta`king them as arguments or by returning them. 
 
 Higher Order Functions are functions that we can create and use with other functions.
 
